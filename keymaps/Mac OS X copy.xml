@@ -18,6 +18,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.Duplicate" />
@@ -34,6 +35,11 @@
   <action id="MoveStatementDown" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="RecentFiles" />
   <action id="ReformatCode">
