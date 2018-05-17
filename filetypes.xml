@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Shopware_queryOrders" type="JSON" />
+      <mapping pattern="QueryCustomers" type="JSON" />
       <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
