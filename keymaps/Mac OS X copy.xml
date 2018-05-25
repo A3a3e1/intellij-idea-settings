@@ -1,8 +1,6 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="ChangesView.Diff" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="meta w" />
-  </action>
+  <action id="CloseActiveTab" />
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Open" />
@@ -28,6 +26,9 @@
   <action id="GuiDesigner.Duplicate" />
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
@@ -41,6 +42,7 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="PasteMultiple" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
