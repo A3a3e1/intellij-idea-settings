@@ -4,6 +4,7 @@
       <mapping pattern="Shopware_queryOrders" type="JSON" />
       <mapping pattern="QueryCustomers" type="JSON" />
       <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
+      <mapping pattern="dsfs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
