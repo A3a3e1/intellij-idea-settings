@@ -6,6 +6,7 @@
       <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
       <mapping pattern="dsfs" type="PLAIN_TEXT" />
       <mapping pattern="adas" type="PLAIN_TEXT" />
+      <mapping ext="vars" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
