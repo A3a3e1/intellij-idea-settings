@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Shopware_queryOrders" type="JSON" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="QueryCustomers" type="JSON" />
-      <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
-      <mapping pattern="dsfs" type="PLAIN_TEXT" />
+      <mapping pattern="Shopware_queryOrders" type="JSON" />
       <mapping pattern="adas" type="PLAIN_TEXT" />
+      <mapping pattern="dsfs" type="PLAIN_TEXT" />
+      <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
