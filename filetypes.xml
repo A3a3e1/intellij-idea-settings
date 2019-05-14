@@ -8,6 +8,7 @@
       <mapping pattern="adas" type="PLAIN_TEXT" />
       <mapping pattern="dsfs" type="PLAIN_TEXT" />
       <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
+      <mapping pattern="wdfasdasdasdasd" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="pk7" type="PLAIN_TEXT" />
       <mapping ext="pk12" type="PLAIN_TEXT" />
