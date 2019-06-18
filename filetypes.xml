@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="QueryCustomers" type="JSON" />
       <mapping pattern="Shopware_queryOrders" type="JSON" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
@@ -9,6 +8,7 @@
       <mapping pattern="dsfs" type="PLAIN_TEXT" />
       <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
       <mapping pattern="wdfasdasdasdasd" type="PLAIN_TEXT" />
+      <mapping ext="edmx" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="pk7" type="PLAIN_TEXT" />
       <mapping ext="pk12" type="PLAIN_TEXT" />
