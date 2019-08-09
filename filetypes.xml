@@ -1,17 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="QueryCustomers" type="JSON" />
       <mapping pattern="Shopware_queryOrders" type="JSON" />
+      <mapping pattern="QueryCustomers" type="JSON" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
-      <mapping pattern="adas" type="PLAIN_TEXT" />
       <mapping pattern="dsfs" type="PLAIN_TEXT" />
+      <mapping pattern="adas" type="PLAIN_TEXT" />
       <mapping pattern="Shopware_queryOrders.json" type="PLAIN_TEXT" />
       <mapping pattern="wdfasdasdasdasd" type="PLAIN_TEXT" />
-      <mapping ext="edmx" type="PLAIN_TEXT" />
-      <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="pk7" type="PLAIN_TEXT" />
+      <mapping ext="vars" type="PLAIN_TEXT" />
+      <mapping ext="edmx" type="PLAIN_TEXT" />
       <mapping ext="pk12" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
