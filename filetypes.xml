@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="QueryCustomers" type="JSON" />
       <mapping pattern="Shopware_queryOrders" type="JSON" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="dsfs" type="PLAIN_TEXT" />
       <mapping pattern="adas" type="PLAIN_TEXT" />
