@@ -15,6 +15,7 @@
       <mapping ext="jcodestination" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="pk7" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="pk12" type="PLAIN_TEXT" />
       <mapping ext="edmx" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
